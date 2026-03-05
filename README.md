@@ -11,9 +11,9 @@ Vide tutoriais do PI.
 </p>
 
 # Nome do Projeto
-#### **PeanutVirtual**
+### **PeanutVirtual**
 ## Nome do Grupo
-#### **MisterCode**
+### **MisterCode**
 ## Integrantes: <a href="https://www.linkedin.com/in/nicollas-mendes-o-l-da-mota-8030b2374//">Nicollas Mota</a>, <a href="https://www.linkedin.com/in/arthur-carvalho-chagas-1a7537382/">Arthur Carvalho</a>, <a href="https://www.linkedin.com/in/cauaaono/">Cauã Aono/a>, <a href="https://www.linkedin.com/in/lucas-pereira-de-souza-445472353/">Lucas Pereira</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
