@@ -1,8 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
@@ -16,7 +11,7 @@ Vide tutoriais do PI.
 ### **MisterCode**
 ## Integrantes: <a href="https://www.linkedin.com/in/nicollas-mendes-o-l-da-mota-8030b2374//">Nicollas Mota</a>, <a href="https://www.linkedin.com/in/arthur-carvalho-chagas-1a7537382/">Arthur Carvalho</a>, <a href="https://www.linkedin.com/in/cauaaono/">Cauã Aono, <a href="https://www.linkedin.com/in/lucas-pereira-de-souza-445472353/">Lucas Pereira</a>
 
-## Professores Orientadores: <>Eduardo Savino Gomes</a>, <a>Ronaldo Araujo Pinto</a>, <a>Francisco Escobar</a>, <a>Adriano Valente</a>, <a>José Carlos Buesso Junior</a>
+## Professores Orientadores: Eduardo Savino Gomes</a>, <a>Ronaldo Araujo Pinto</a>, <a>Francisco Escobar</a>, <a>Adriano Valente</a>, <a>José Carlos Buesso Junior</a>
 
 ## Descrição
 
