@@ -16,7 +16,7 @@ Vide tutoriais do PI.
 ### **MisterCode**
 ## Integrantes: <a href="https://www.linkedin.com/in/nicollas-mendes-o-l-da-mota-8030b2374//">Nicollas Mota</a>, <a href="https://www.linkedin.com/in/arthur-carvalho-chagas-1a7537382/">Arthur Carvalho</a>, <a href="https://www.linkedin.com/in/cauaaono/">Cauã Aono, <a href="https://www.linkedin.com/in/lucas-pereira-de-souza-445472353/">Lucas Pereira</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <>Eduardo Savino Gomes</a>, <a>Ronaldo Araujo Pinto</a>, <a>Francisco Escobar</a>, <a>Adriano Valente</a>, <a>José Carlos Buesso Junior</a>
 
 ## Descrição
 
@@ -106,13 +106,3 @@ Coloque código do prompt de comnando se for necessário
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
 
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
-
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
