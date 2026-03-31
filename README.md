@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-    <img src="../imagens/NUTS" alt="Mascote Nuts e Alimentos" border="0" width="500">
+    <img src="NUTS.jpg" alt="Mascote Nuts e Alimentos" border="0" width="300">
 </p>
  
 O projeto desenvolvido pela Nuts&AlimentosLTDA consiste em uma Plataforma Web no formato de Marketplace B2B, criada para conectar de forma eficiente compradores e fornecedores do setor de alimentos e redes de varejo. Atuando de forma direta como um hub centralizador de anúncios, o sistema organiza dados de contato, detalhes dos produtos e condições de fornecimento. Com isso, a solução resolve os gargalos tradicionais desse mercado, reduzindo drasticamente o tempo de busca por parceiros comerciais e eliminando as burocracias e transtornos das negociações iniciais.
