@@ -5,7 +5,7 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nuts&AlimentosLTDA
+# Kakuab Market
 ### **Marketplace B2B**
 ## MisterCode
 ## Integrantes: <a href="https://www.linkedin.com/in/nicollas-mendes-o-l-da-mota-8030b2374//">Nicollas Mota</a>, <a href="https://www.linkedin.com/in/arthur-carvalho-chagas-1a7537382/">Arthur Carvalho</a>, <a href="https://www.linkedin.com/in/cauaaono/">Cauã Aono, <a href="https://www.linkedin.com/in/lucas-pereira-de-souza-445472353/">Lucas Pereira</a>
