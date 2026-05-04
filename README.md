@@ -1,8 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
@@ -10,28 +5,21 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
-### **PeanutVirtual**
-## Nome do Grupo
-### **MisterCode**
+# Kakuab Market
+### **Marketplace B2B**
+## MisterCode
 ## Integrantes: <a href="https://www.linkedin.com/in/nicollas-mendes-o-l-da-mota-8030b2374//">Nicollas Mota</a>, <a href="https://www.linkedin.com/in/arthur-carvalho-chagas-1a7537382/">Arthur Carvalho</a>, <a href="https://www.linkedin.com/in/cauaaono/">Cauã Aono, <a href="https://www.linkedin.com/in/lucas-pereira-de-souza-445472353/">Lucas Pereira</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: Eduardo Savino Gomes</a>, <a>Ronaldo Araujo Pinto</a>, <a>Francisco Escobar</a>, <a>Adriano Valente</a>, <a>José Carlos Buesso Junior</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+    <img width="2005" height="1305" alt="logo kakuab market" src="https://github.com/user-attachments/assets/9206e4bc-b4cb-4f2a-a720-90a45c41abb9" />
+
 </p>
-
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+ 
+O projeto desenvolvido pela Nuts&AlimentosLTDA consiste em uma Plataforma Web no formato de Marketplace B2B, criada para conectar de forma eficiente compradores e fornecedores do setor de alimentos e redes de varejo. Atuando de forma direta como um hub centralizador de anúncios, o sistema organiza dados de contato, detalhes dos produtos e condições de fornecimento. Com isso, a solução resolve os gargalos tradicionais desse mercado, reduzindo drasticamente o tempo de busca por parceiros comerciais e eliminando as burocracias e transtornos das negociações iniciais.
 
 ## 🛠 Estrutura de pastas
 
@@ -66,45 +54,16 @@ Há também 4 pastas que seguem da seguinte forma:
 
 ## 🛠 Instalação
 
-<b>Android:</b>
-
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
 Não há instalação!
 Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
+Em cada entrega de projeto terá à documentação necessaria para abrir os arquivos!
 
 ## 📋 Licença/License
 Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+
 
 ## 🎓 Referências
 
