@@ -15,7 +15,7 @@
 ## Descrição
 
 <p align="center">
-    <img width="1536" height="1024" alt="logo kakuab market" src="https://github.com/user-attachments/assets/9206e4bc-b4cb-4f2a-a720-90a45c41abb9" />
+    <img width="1536" height="1400" alt="logo kakuab market" src="https://github.com/user-attachments/assets/9206e4bc-b4cb-4f2a-a720-90a45c41abb9" />
 
 </p>
  
